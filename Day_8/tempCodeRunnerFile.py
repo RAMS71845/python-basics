@@ -1,0 +1,1 @@
+Ram.deposit(9000)

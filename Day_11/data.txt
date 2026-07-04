@@ -1,0 +1,5 @@
+python -m venve venv -> To create env
+venv\Scripts\activate-To activate
+deactivate
+pip freeze> rezuirements.txt
+pip install -r requirements.txt
